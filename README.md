@@ -1,1 +1,1 @@
-# wantsWord-extension
+# wantWords-extension
